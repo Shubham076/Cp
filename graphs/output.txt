@@ -1,0 +1,3 @@
+Node0: 0
+Node1: 3
+Node2: -10
